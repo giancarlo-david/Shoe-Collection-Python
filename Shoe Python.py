@@ -119,6 +119,8 @@ def removeShoe(shoeList):
 def showCount(shoeList):
 
     print("Total count: ", len(shoeList), "\n")
+    # Was working on showCount showing how many of each brand is in your collection, postponed for python right now
+    #  will end up implementing in C++ version first
     #print("Nike: ", shoeList.count('Nike'), "\tJordan: ", shoeList.count('Jordan'),\
     #      "\tAdidas: ", shoeList.count('Adidas'))
     #print("Asics: ", shoeList.count('Asics'), "\tConverse: ", shoeList.count('Converse'),\
